@@ -1,0 +1,15 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+                       
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
+erwork --depend=.\objects\tutorial.d -o.\objects\tutorial.o -I.\RTE\_Target_1 -
+I"C:\Program Files\Keil\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\Core\Include" -I"C:\Prog
+ram Files\Keil\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123" --predefine
+="__EVAL SETA 1" --predefine="__UVISION_VERSION SETA 526" --predefine="_RTE_ SE
+TA 1" --predefine="TM4C1233H6PM SETA 1" --list=.\listings\tutorial.lst Tutorial
+.s
+334 symbols in table
